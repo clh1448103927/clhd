@@ -1,3 +1,4 @@
 # clhd
-is mine
+
 Hello World
+This is my first project
